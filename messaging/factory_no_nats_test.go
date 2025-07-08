@@ -21,10 +21,10 @@ package messaging_test
 import (
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/messaging"
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
+	"github.com/tuxiot/go-mod-messaging/v3/messaging"
+	"github.com/tuxiot/go-mod-messaging/v3/pkg/types"
 )
 
 var natsConfig = types.MessageBusConfig{

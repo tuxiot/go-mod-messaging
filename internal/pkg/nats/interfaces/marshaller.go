@@ -19,7 +19,7 @@
 package interfaces
 
 import (
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
+	"github.com/tuxiot/go-mod-messaging/v3/pkg/types"
 	"github.com/nats-io/nats.go"
 )
 

@@ -3,8 +3,8 @@ package redis
 import (
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/internal/pkg"
 	"github.com/stretchr/testify/assert"
+	"github.com/tuxiot/go-mod-messaging/v3/internal/pkg"
 )
 
 func TestBuilderMethods(t *testing.T) {

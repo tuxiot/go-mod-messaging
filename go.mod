@@ -1,4 +1,4 @@
-module github.com/edgexfoundry/go-mod-messaging/v3
+module github.com/tuxiot/go-mod-messaging/v3
 
 go 1.21
 

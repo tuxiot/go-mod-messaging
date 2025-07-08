@@ -19,8 +19,8 @@ package messaging
 import (
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-messaging/v3/pkg/types"
 	"github.com/stretchr/testify/assert"
+	"github.com/tuxiot/go-mod-messaging/v3/pkg/types"
 )
 
 var msgConfig = types.MessageBusConfig{
